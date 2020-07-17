@@ -19,6 +19,7 @@ class Datasource {
             jogos.add(Jogo(180,"Blazing Chrome",2.0f, "XBOX-ONE"))
             jogos.add(Jogo(190,"Gato Roboto",5.0f,"PC"))
             jogos.add(Jogo(200, "Castlelvania Anniversary", 4.0f, "XBOX-ONE"))
+            jogos.add(Jogo(210"Black"5.0,"PS2"))
 
             return  jogos
         }
