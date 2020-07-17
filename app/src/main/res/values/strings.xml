@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="nome_do_jogo">Nome do Jogo</string>
+    <string name="xbox_one">XBOX=ONE</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="todo">TODO</string>
+</resources>
